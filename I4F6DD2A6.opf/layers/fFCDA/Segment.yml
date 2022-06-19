@@ -1,0 +1,114 @@
+id: 56acd7b716834921a2a14436fa854adb
+annotation_type: Segment
+revision: '00001'
+annotations:
+  84702cad7c614967891bbcf5be14e9b9:
+    span:
+      start: 0
+      end: 37
+    metadata: {}
+  5d2b6d7829be4639bfa4054c754cb444:
+    span:
+      start: 39
+      end: 138
+    metadata: {}
+  97b5aa4ada9845b8b4a2b4dc05868c60:
+    span:
+      start: 140
+      end: 155
+    metadata: {}
+  e3df327ee0594f7a9db6e08a95c8a054:
+    span:
+      start: 157
+      end: 347
+    metadata: {}
+  44a2075c61084b9ca22495ec5cc5f599:
+    span:
+      start: 349
+      end: 399
+    metadata: {}
+  e9cc11bcaa734f938e8a2d5e4040451c:
+    span:
+      start: 401
+      end: 976
+    metadata: {}
+  5e35cbeab06244bbbafc9ed4f891d7f3:
+    span:
+      start: 978
+      end: 1171
+    metadata: {}
+  b9675f745ea440cd96a24b83828f1282:
+    span:
+      start: 1173
+      end: 1209
+    metadata: {}
+  86385dab970347df9d3b536505b85656:
+    span:
+      start: 1211
+      end: 1949
+    metadata: {}
+  abf823a28d844beea7c0414af5c23913:
+    span:
+      start: 1951
+      end: 2222
+    metadata: {}
+  349b4780458d4320b19607de73a73851:
+    span:
+      start: 2224
+      end: 2257
+    metadata: {}
+  619f6eebb48043b28e7eee1cca6c1e79:
+    span:
+      start: 2259
+      end: 2641
+    metadata: {}
+  8bee03ce46f241229ef759bbe5db983a:
+    span:
+      start: 2643
+      end: 3078
+    metadata: {}
+  40ec967c5e844b74bf526d63f325b5e4:
+    span:
+      start: 3080
+      end: 3630
+    metadata: {}
+  0246a7f883204de3940482c30633a9fe:
+    span:
+      start: 3632
+      end: 3846
+    metadata: {}
+  b40fc4576f9a40ee890e443957aa8d83:
+    span:
+      start: 3848
+      end: 3902
+    metadata: {}
+  b42d68e4d3954ccb8a577952f9bb4dd7:
+    span:
+      start: 3904
+      end: 4258
+    metadata: {}
+  c7e273b0e0a54c79b402372db5784ea0:
+    span:
+      start: 4260
+      end: 4626
+    metadata: {}
+  2f7d5cd018864f209749fea575fccde0:
+    span:
+      start: 4628
+      end: 4975
+    metadata: {}
+  992dd74dd75c486f940b726ac5ba680f:
+    span:
+      start: 4977
+      end: 5244
+    metadata: {}
+  a2db397b774a4060a5965bf5f13900ec:
+    span:
+      start: 5246
+      end: 5507
+    metadata: {}
+  a809b6fd5d2a41d4b5bb846b8ae4a6cb:
+    span:
+      start: 5509
+      end: 5544
+    metadata: {}
